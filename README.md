@@ -1,4 +1,4 @@
-<h1>Oii! Eu sou a Nathana :)</h1>
+<h1>Olá! Eu sou a Nathana :)</h1>
 
 
 <div align="center">
