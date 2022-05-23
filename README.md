@@ -12,6 +12,8 @@
   <img align="center" alt="nathana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="right" alt="nathana-pic" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/NChNy3Lzpldmf8U3rM">
   
+  ##
+  
   <div>
     <a href="https://www.instagram.com/nathana_kiwia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:nathana.silva32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
