@@ -10,8 +10,8 @@
   <img align="center" alt="nathana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nathana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nathana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="right" alt="nathana-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/NChNy3Lzpldmf8U3rM"
-  <iframe src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NChNy3Lzpldmf8U3rM">via GIPHY</a></p>
+  <img align="right" alt="nathana-pic" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/NChNy3Lzpldmf8U3rM"
+  <iframe src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p>
   
    ##
   
