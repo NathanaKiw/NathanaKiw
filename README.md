@@ -10,7 +10,7 @@
   <img align="center" alt="nathana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nathana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nathana-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="right" alt="nathana-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/NChNy3Lzpldmf8U3rM/giphy.gif">
+  <img align="right" alt="nathana-pic" height="150" style="border-radius:50px;" src="[https://media.giphy.com/media/NChNy3Lzpldmf8U3rM/giphy.gif](https://discord.com/channels/@me/866106433346207744/930541889755689032)">
   
   
    ##
